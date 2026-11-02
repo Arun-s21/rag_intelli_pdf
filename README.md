@@ -159,23 +159,3 @@ src/
 └── types/               # TypeScript definitions
 ```
 
-## Documentation
-
-- [Architecture Overview](docs/ARCHITECTURE.md)
-- [Image Processing Pipeline](docs/IMAGE_PIPELINE.md)
-- [Processing Flow](docs/PROCESSING_FLOW.md)
-- [Indexing & Search](docs/INDEXING_AND_SEARCH.md)
-- [Known Limitations](docs/LIMITATIONS.md)
-- [Project Structure](docs/STRUCTURE.md)
-
-## License
-
-MIT
-
-## Contributing
-
-Contributions are welcome. Please open an issue first to discuss proposed changes.
-
-## Author
-
-[Illusory-warden](https://github.com/Illusory-warden)
